@@ -12,33 +12,15 @@ const Home = () => {
                 />
                 <div className="home_row">
                     <Product 
-                        title="The lean startup"
+                        id= {1}
+                        title="The lean startup 1"
                         image = "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
                         price = {19.99}
                         rating = {3}
                     />
                     <Product 
-                        title="The lean startup"
-                        image = "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
-                        price = {19.99}
-                        rating = {3}
-                    />
-                </div>
-                <div className="home_row">
-                    <Product 
-                        title="The lean startup"
-                        image = "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
-                        price = {19.99}
-                        rating = {3}
-                    />
-                    <Product 
-                        title="The lean startup"
-                        image = "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
-                        price = {19.99}
-                        rating = {3}
-                    />
-                    <Product 
-                        title="The lean startup"
+                        id= {2}
+                        title="The lean startup 2"
                         image = "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
                         price = {19.99}
                         rating = {3}
@@ -46,7 +28,31 @@ const Home = () => {
                 </div>
                 <div className="home_row">
                     <Product 
-                        title="The lean startup"
+                        id= {3}
+                        title="The lean startup 3"
+                        image = "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+                        price = {19.99}
+                        rating = {3}
+                    />
+                    <Product 
+                        id= {4}
+                        title="The lean startup 4"
+                        image = "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+                        price = {19.99}
+                        rating = {3}
+                    />
+                    <Product 
+                        id= {5}
+                        title="The lean startup 5"
+                        image = "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+                        price = {19.99}
+                        rating = {3}
+                    />
+                </div>
+                <div className="home_row">
+                    <Product 
+                        id= {6}
+                        title="The lean startup 6"
                         image = "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
                         price = {19.99}
                         rating = {3}
